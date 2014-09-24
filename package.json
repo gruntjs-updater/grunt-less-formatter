@@ -1,0 +1,40 @@
+{
+  "name": "grunt-less-formatter",
+  "description": "The best Grunt plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/franklovecchio/grunt-less-formatter",
+  "author": {
+    "name": "Frank LoVecchio",
+    "email": "franklovecchio@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://franklovecchio@github.com/franklovecchio/grunt-less-formatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/franklovecchio/grunt-less-formatter/issues"
+  },
+  "licenses": [
+    {
+      "type": "None",
+      "url": "https://github.com/franklovecchio/grunt-less-formatter/blob/master/LICENSE-None"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "cheerio": "0.17.0",
+    "q": "^1.0.1",
+    "request": "2.44.0"
+  }
+}
